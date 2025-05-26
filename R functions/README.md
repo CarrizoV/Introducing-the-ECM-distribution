@@ -23,3 +23,7 @@ The file `Sim_OU.R` contains a function to simulate Ornstein-Uhlenbeck trajector
 The file `Sim_Population_Count_list.R` contains a function to simulate survey counts of continously moving individuals according to some continuous-time trajectory model over possibly irregularly sampled squares.
 
 The file `Voting_ll_Gauss.R` contains function to compute the Gaussian pseudo-likelihood of transfer proportions for Poisson-multinomial counts modeling two-rounds election results. It also contains a function to compute its gradient and convenient softmax-transformation functions.
+
+## References
+
+Carrizo Vergara, R., Kéry, M., & Hefley, T. (2025). The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer. arXiv preprint to be annonced.
