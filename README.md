@@ -1,4 +1,4 @@
-# Introducing-the-ECM-distribution
+# Introducing the ECM distribution
 R routines and R functions for reproducing the results in Carrizo Vergara et al (2025).
 
 The folder "R functions" contains R functions which are called by the R routines. 
