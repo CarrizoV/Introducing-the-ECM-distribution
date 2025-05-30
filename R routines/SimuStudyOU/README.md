@@ -9,4 +9,6 @@ The results obtained by us are already present in the folder `output`. The routi
 
 ## References
 
+Carrizo Vergara, R., Kéry, M., & Hefley, T. (2025). The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer. arXiv preprint 2505.20151.
+
 
