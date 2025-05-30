@@ -26,4 +26,4 @@ The file `Voting_ll_Gauss.R` contains function to compute the Gaussian pseudo-li
 
 ## References
 
-Carrizo Vergara, R., Kéry, M., & Hefley, T. (2025). The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer. arXiv preprint to be annonced.
+Carrizo Vergara, R., Kéry, M., & Hefley, T. (2025). The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer. arXiv preprint 2505.20151.
