@@ -6,3 +6,4 @@ This folder also contains, in the `.xlsx` files, the results of both round of th
 
 # References
 
+Carrizo Vergara, R., Kéry, M., & Hefley, T. (2025). The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer. arXiv preprint 2505.20151.
